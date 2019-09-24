@@ -1,7 +1,8 @@
+Notebooks have been edited to work with RocketML Data Science Workbench
+
 Dask Example Notebooks
 ======================
 
-From RocketML
 This repository includes easy-to-run example notebooks for Dask.
 They are intended to be educational and give users a start on common workflows.
 
