@@ -5,3 +5,7 @@ mydask.png
 dataframes/data
 .idea/
 data/
+tutorials/*.lock
+tutorials/dask-worker-space
+tutorials/slurm*
+tutorials/worker*
