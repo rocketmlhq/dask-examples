@@ -9,3 +9,5 @@ tutorials/*.lock
 tutorials/dask-worker-space
 tutorials/slurm*
 tutorials/worker*
+.dask/
+.tests/
